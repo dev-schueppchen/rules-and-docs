@@ -4,13 +4,13 @@
 
 ---
 
-1. Be nice, patient and respectful to everyone, also if you encounter people who may be less skilled than you in this specific topic.
+1. Be nice, patient and respectful to everyone, especially if you encounter people who may be less skilled than you in this specific topic.
 
 2. If there come across people who are unpatient and violate the rules, hint them nicely to their misconduct and report it to a moderator or staff member with a proof in form of a message ID, message link or, in best case, a screen shot.
 
-3. **Any type** of self-promotion for any type of product or service is not allowed and will be hardly punished. If you want to house advertise a product or service, you need to get the agreement of a **staff member**.
+3. **Any type** of self-promotion for any type of product or service is'nt allowed and will be hardly punished. If you want to advertise a product or service, you need to get an agreement of a **staff member**.
 
-4. Publishing any type of anti-constitutional (related to german and european law) is not allowed and will be hardly punished. Also posting any type of NSFW content in not-NSFW-marked channels is forbidden and will be removed and penalized.
+4. Publishing any type of anti-constitutional (related to german and european law) is not allowed and will be hardly punished. Posting any type of NSFW content in not-NSFW-marked channels is also forbidden and will be removed and penalized.
 
 5. Abusement of your permissions and roles, also referred to the usage of bots, will result in a penalty and loss of your permissions and roles.
 
@@ -20,4 +20,4 @@
 
 8. Genrally, you have to follow the instructions of moderators and staff members.
 
-9. It is important to note that this server is not a public forum. Final say in everything is up to the moderators and staff team. The moderators and staff team of the server reserve the right to punish for any reason as long as there is a consensus among said moderators and staff members.
+9. It is important to note that this server is not a public forum. Everything is up to the moderators and staff team. The moderators and staff team of the server reserve the right to punish for any reason as long as there is a consensus among said moderators and staff members.
