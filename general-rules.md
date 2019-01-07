@@ -22,4 +22,5 @@
 
 7. Do not argue with, impersonate, or spam staff in the server or off the server (dms, mutual servers, etc). You have to follow the instructions of moderators and staff members.
 
-*It is important to note that this server is not a public forum. Everything is up to the moderators and staff team. The moderators and staff team of the server reserve the right to punish for any reason as long as there is a consensus among said moderators and staff members.*v
+
+> *It is important to note that this server is not a public forum. Everything is up to the moderators and staff team. The moderators and staff team of the server reserve the right to punish for any reason as long as there is a consensus among said moderators and staff members.*
