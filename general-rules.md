@@ -1,5 +1,5 @@
 # General Rules
-> Contributors: zekro#9131
+> Contributors: zekro#9131, ⎛⎝argex⎠⎞#0042  
 > Last update:  2019/01/07
 
 ---
