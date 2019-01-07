@@ -17,15 +17,15 @@ This applies to every role:
     *Every action must pass the report system of the guild so that every action can be traced in the mod log channel and the reports database. If this system failes in a case of emergency, they are allowed to bypass the report system and use the regular ban/kick/role system of the guild.*
   - Manage channels and roles  
     *Create channels/roles which are needed, delete channels/roles which are not, rename channels/roles, enable slowmode, change permissions, edit channel topics, ...*
-  - Receive and evaluate applications of members for the Moderator role
+  - Receive and evaluate applications of members for the Moderator role.
   - **Every action taken by Admins should be agreed by at least another Admin.**  
     *Exceptional in case of an emergency if no other admins are accessible.*
     
 ## Moderator
 
 - Moderators have the permission to manage messages, reactions and nicknames.
-- Moderators also have the access to the report and mute command.
-- Moderators can access a seperated chat, only visible for Moderators and Admins.
+- Moderators also have access to the report and mute command.
+- Moderators can access a seperated chat, only visible to Moderators and Admins.
 - The main duties of the Moderators are:
   - Keep in sight that the rules are followed by the members.
   - Delete messages violating the rules.
