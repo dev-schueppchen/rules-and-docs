@@ -18,6 +18,6 @@
 
 7. Of course, you should observe the [Discord TOS](https://discordapp.com/terms) and the [Discord Community Guidelines](https://discordapp.com/guidelines).
 
-8. Genrally, you have to follow the instructions of moderators and staff members.
+8. You have to follow the instructions of moderators and staff members.
 
 9. It is important to note that this server is not a public forum. Everything is up to the moderators and staff team. The moderators and staff team of the server reserve the right to punish for any reason as long as there is a consensus among said moderators and staff members.
