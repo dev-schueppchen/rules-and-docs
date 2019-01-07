@@ -8,16 +8,18 @@
 
 2. If there come across people who are unpatient and violate the rules, hint them nicely to their misconduct and report it to a moderator or staff member with a proof in form of a message ID, message link or, in best case, a screen shot.
 
-3. **Any type** of self-promotion for any type of product or service is'nt allowed and will be hardly punished. If you want to advertise a product or service, you need to get an agreement of a **staff member**.
+3. **Any type** of self-promotion for any type of product or service isn't allowed and will be hardly punished. If you want to advertise a product or service, you need to get an agreement of a **staff member**.
 
-4. Publishing any type of anti-constitutional (related to german and european law) is not allowed and will be hardly punished. Posting any type of NSFW content in not-NSFW-marked channels is also forbidden and will be removed and penalized.
+4. Publishing any type of anti-constitutional (related to german and european law) is not allowed and will be hardly punished. Posting any type of NSFW content in not-NSFW-marked channels is also forbidden and will be removed and will result in an immediate ban.
 
-5. Abusement of your permissions and roles, also referred to the usage of bots, will result in a penalty and loss of your permissions and roles.
+3. Usernames must be readable and pingable.
 
-6. Any type of spam, the excessive use of caps or anything similar is not allowed and will be removed.
+4. Abusement of your permissions and roles, also referred to the usage of bots, will result in a penalty and loss of your permissions and roles.
 
-7. Of course, you should observe the [Discord TOS](https://discordapp.com/terms) and the [Discord Community Guidelines](https://discordapp.com/guidelines).
+5. Any type of spam, the excessive use of caps or anything similar is not allowed and will be removed.
 
-8. You have to follow the instructions of moderators and staff members.
+6. Of course, you should observe the [Discord TOS](https://discordapp.com/terms) and the [Discord Community Guidelines](https://discordapp.com/guidelines).
 
-9. It is important to note that this server is not a public forum. Everything is up to the moderators and staff team. The moderators and staff team of the server reserve the right to punish for any reason as long as there is a consensus among said moderators and staff members.
+7. Do not argue with, impersonate, or spam staff in the server or off the server (dms, mutual servers, etc). You have to follow the instructions of moderators and staff members.
+
+*It is important to note that this server is not a public forum. Everything is up to the moderators and staff team. The moderators and staff team of the server reserve the right to punish for any reason as long as there is a consensus among said moderators and staff members.*v
