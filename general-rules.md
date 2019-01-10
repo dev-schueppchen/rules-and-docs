@@ -1,6 +1,6 @@
 # General Rules
 > Contributors: zekro#9131, ⎛⎝argex⎠⎞#0042, error2507#2507, Vale#5252   
-> Last update:  2019/01/07
+> Last update:  2019/01/10
 
 ---
 
