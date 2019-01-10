@@ -1,6 +1,6 @@
 # Role Setup
 > Contributors: zekro#9131  
-> Last update:  2019/01/07
+> Last update:  2019/01/10
 
 ---
 
@@ -15,4 +15,4 @@
   - supp-cpp
   - supp-webdev
   
-* *These roles will be displayed seperately in the members list.*
+`*` *These roles will be displayed seperately in the members list.*
