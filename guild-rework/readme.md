@@ -1,6 +1,6 @@
 # Dev Discord Rework
-> Contributors: zekro#9131  
-> Last update:  2019/01/07
+> Contributors: zekro#9131, error2507#2507  
+> Last update:  2019/01/10
 
 ---
 
