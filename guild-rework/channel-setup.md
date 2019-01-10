@@ -13,6 +13,9 @@
     *Only visible for Moderators and Admins*
   - staff-cmd  
     *Only visible for Moderators and Admins*
+  - join-log  
+    *Only visible for Moderators and Admins.*  
+    *Hier werden alle gejointen Member aufgelistet (direkt über das [Discord Feature](https://i.zekro.de/Discord_2019-01-10_16-23-08.png))*
 - Blackboard
   - public-blackboard
   - notifications
