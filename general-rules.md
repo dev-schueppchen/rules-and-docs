@@ -10,9 +10,9 @@
 
 3. **Any type** of self-promotion for any type of product or service isn't allowed and will be hardly punished. If you want to advertise a product or service, you need to get an agreement of a **staff member**.
 
-4. Publishing any type of anti-constitutional (related to german and european law) is not allowed and will be hardly punished. Posting any type of NSFW content in not-NSFW-marked channels is also forbidden and will be removed and will result in an immediate ban.
+4. Publishing any type of anti-constitutional (related to german and european law) is not allowed and will be hardly punished. Posting any type of NSFW content in not-NSFW-marked channels is also forbidden, will be removed and will result in an immediate ban.
 
-3. Usernames must be readable and pingable.
+3. Usernames must be readable and pingable and must of course follow the rules.
 
 4. Abusement of your permissions and roles, also referred to the usage of bots, will result in a penalty and loss of your permissions and roles.
 

@@ -11,7 +11,7 @@
 2. **Phone-Number-Verification**  
    *Ja, jeder Member benötigt eine bestätigte Nummer auf seinem Account, um schreiben zu können. Dafür könnt ihr euch bei denen bedanken, die Alt-Abusing betrieben haben.*
 3. **Wesentlich härtere Form-Regeln in den Support-Channeln**  
-   *So ein bisschen wie das Prinzip bei Stackoverflow.*
+   *Ähnlich wie das Prinzip bei Stackoverflow.*
 4. **Der Knecht und der zekroBot2 werden durch einen [neuen Bot](https://github.com/zekroTJA/shinpuru) ersetzt, welcher auch von der Community erweitert und notfalls gefixt werden kann und soll.**  
    *Zudem werden weitere Systeme im Rahmen dieser Orga entwickelt, welche diesen Server managen und unterstützen. Diese sollen natürlich auch zum teil von der Community verbessert und erweitert werden.*
 5. **Support-Rollen**
