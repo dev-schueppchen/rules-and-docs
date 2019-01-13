@@ -1,6 +1,6 @@
 # Channel Setup 
 > Contributors: zekro#9131  
-> Last update:  2019/01/10
+> Last update:  2019/01/13
 
 ---
 
@@ -21,6 +21,7 @@
   - notifications
   - modlog
   - starboard
+  - suggestions
 - Talk  
   *In diesen Channeln darf generell offen gechattet werden ohne besonderen Fokus auf Support und Qualität (natürlich im Rahmen der allgemeinen Regeln).*
   - general
