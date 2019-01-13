@@ -1,0 +1,11 @@
+{
+    "title": "zekro's Dev Discord",
+    "description": "Hey and welcome on **zekro's Development Discord**! :wave:\n\nWe are a, mainly german, developer comunity where you can share your projects and skills and discuss about development and computer science topics.\n\nBy acting on this discord, you accept the [**rules**](https://github.com/dev-schueppchen/rules-and-docs/blob/master/general-rules.md) of this guild. Please read them carefully before, of course. :wink:\n\nOur bot for maintaining and supporting the guild is <@524847123875889153>. Use `sp!help` to get inforamtion about how to use this bot.\n\nNow, look around and have fun!",
+    "color": 6056896,
+    "thumbnail": {
+        "url": "https://zekro.de/src/zekro-dev-logo.jpg"
+    },
+    "footer": {
+        "text": "last edited: 2018/01/13"
+    }
+}
