@@ -1,5 +1,5 @@
 # Channel Setup 
-> Contributors: zekro#9131  
+> Contributors: zekro#9131, Ron31#2338  
 > Last update:  2019/01/13
 
 ---
