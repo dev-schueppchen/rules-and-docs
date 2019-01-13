@@ -1,6 +1,6 @@
 # Channel Setup 
 > Contributors: zekro#9131  
-> Last update:  2019/01/10
+> Last update:  2019/01/13
 
 ---
 
