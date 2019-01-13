@@ -34,6 +34,7 @@
   *In diesen Channeln steht Support und Qualität im Vordergrund.*
   - java
   - python
+  - cpp
   - js
   - go
   - webdev
