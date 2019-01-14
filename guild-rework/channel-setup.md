@@ -29,6 +29,7 @@
   - devtalk
   - trashtalk
   - memes
+  - nsfw
   - commands
 - Support  
   *In diesen Channeln steht Support und Qualität im Vordergrund.*
