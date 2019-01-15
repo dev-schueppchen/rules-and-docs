@@ -22,6 +22,7 @@
   - modlog
   - starboard
   - suggestions
+  - mod-applications
 - Talk  
   *In diesen Channeln darf generell offen gechattet werden ohne besonderen Fokus auf Support und Qualität (natürlich im Rahmen der allgemeinen Regeln).*
   - general
