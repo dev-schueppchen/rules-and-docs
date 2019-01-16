@@ -17,7 +17,7 @@
         },
         {
             "name": "🤖 Bots",
-            "value": "Our bot for maintaining and supporting the guild is <@524847123875889153>. Use `!help` to get inforamtion about how to use this bot.\nWe also do not ping `@everyone` for every notification. For that, we have a role named <@&533833573103566858>. You can get this role by using the command `!notify` and you can also disable the role with it."
+            "value": "Our bot for maintaining and supporting the guild is <@524847123875889153>. Use `!help` to get information about how to use this bot.\nWe also do not ping `@everyone` for every notification. For that, we have a role named <@&533833573103566858>. You can get this role by using the command `!notify` and you can also disable the role with it."
         }
     ]
 }
