@@ -32,6 +32,7 @@
   - memes
   - nsfw
   - commands
+  - hall-of-shame
 - Support  
   *In diesen Channeln steht Support und Qualität im Vordergrund.*
   - java
