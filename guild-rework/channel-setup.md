@@ -42,6 +42,7 @@
   - go
   - webdev
   - videos
+  - code-reviews
   - etc
 - Voice Channels
   - Staff
