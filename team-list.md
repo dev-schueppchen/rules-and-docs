@@ -21,7 +21,10 @@
     
 ## Moderator
 
-- No Moderator.
+- Kaktushose#0436
+- itsDkiller#8424
+- Stuuu#1337
+- Ron31#2338
 
 ## Supporter
 
