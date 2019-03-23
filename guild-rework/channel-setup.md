@@ -35,15 +35,16 @@
   - hall-of-shame
 - Support  
   *In diesen Channeln steht Support und Qualität im Vordergrund.*
-  - java
+  - jvm-langs
   - python
-  - cpp
+  - c-cpp
   - js
   - go
+  - code-reviews
   - webdev
   - videos
-  - code-reviews
   - etc
+  - dotnet
 - Voice Channels
   - Staff
   - Support
