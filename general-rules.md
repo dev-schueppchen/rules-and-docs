@@ -1,6 +1,6 @@
 # General Rules
-> Contributors: zekro#9131, ⎛⎝argex⎠⎞#0042, error2507#2507, Vale#5252   
-> Last update:  2019/01/10
+> Contributors: zekro#9131, ⎛⎝argex⎠⎞#0042, error2507#2507, Vale#5252, Ron31#2338   
+> Last update:  2019/03/24
 
 ---
 
@@ -22,5 +22,6 @@
 
 7. Do not argue with, impersonate, or spam staff in the server or off the server (dms, mutual servers, etc). You have to follow the instructions of moderators and staff members.
 
+8. Invite Links, for self promotion or not, are only allowed over DM when asked. Otherwise ask a Staff Member for the permission to post it. 
 
 > *It is important to note that this server is not a public forum. Everything is up to the moderators and staff team. The moderators and staff team of the server reserve the right to punish for any reason as long as there is a consensus among said moderators and staff members.*
