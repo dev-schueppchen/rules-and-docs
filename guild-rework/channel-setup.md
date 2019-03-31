@@ -30,8 +30,9 @@
   - devtalk
   - trashtalk
   - memes
-  - nsfw
+  - music
   - commands
+  - nsfw
   - hall-of-shame
 - Support  
   *In diesen Channeln steht Support und Qualität im Vordergrund.*
