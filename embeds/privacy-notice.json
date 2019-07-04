@@ -1,0 +1,18 @@
+{
+    "title": "Privacy Notice",
+    "description": "On this guild, the bot <@572020083635781668> is collecting data for a Discord data analysis video project of <@221905671296253953>. By acting on this discord, you are automatically accpet the collection of data described further below.",
+    "color": 16761095,
+    "footer": {
+        "text": "last edited: 2019/04/28"
+    },
+    "fields": [
+        {
+            "name": "✅ What Data Will Be Collected?",
+            "value": "◽ **Public Chat Messages**\nChannel ID, Timestamp, Sender-Role-IDs, Message Content Length, Message Media Attachment Types (Image/Video/Link), Role Mentions\n\n◽ **Online Status Activity**\nStatus counts, online status per roles and time\n\n◽ **Member Join/Leave**\nTimestamps when members are joining or leaving the server\n\n◽ **Total Member Count**\nCount of members on the guild over time\n\n◽ **Reactions**\nUsed reaction count per message, per reaction name, per channel\n\n◽ **Voice Activity**\nWhen voice channels get joined or left"
+        },
+        {
+            "name": "❌ What Data Will NOT Be Collected?",
+            "value": "◽ **NO** specific user IDs, user tags, nick names or something like this will be logged\n◽ **NO** specific message content, media or something else will be logged\n◽ **NO** specific user activity or behavior will be logged"
+        }
+    ]
+}
