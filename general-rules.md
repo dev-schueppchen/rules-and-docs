@@ -1,6 +1,6 @@
 # General Rules
-> Contributors: zekro#9131, ⎛⎝argex⎠⎞#0042, error2507#2507, Vale#5252, Ron31#2338   
-> Last update:  2019/03/24
+> Contributors: zekro#0001, argex#0042, error2507#1599, Vale#5252, Ron31#2338, Xellar#9999
+> Last update:  2019/07/04
 
 ---
 
@@ -25,5 +25,7 @@
 8. Invite Links, for self promotion or not, are only allowed over DM when asked. Otherwise ask a Staff Member for the permission to post it. 
 
 9. The channels located in the **blackboard** category mustn't be used for shitposting, only messages that are meant serious are allowed there, thus a message not complying with this rule, will be deleted by the **staff team** and the user breaking this rule will be warned.
+
+---
 
 > *It is important to note that this server is not a public forum. Everything is up to the moderators and staff team. The moderators and staff team of the server reserve the right to punish for any reason as long as there is a consensus among said moderators and staff members.*
