@@ -1,5 +1,5 @@
 # General Rules
-> Contributors: zekro#0001, argex#0042, error2507#1599, Vale#5252, Ron31#2338, Xellar#9999, G3bE#6007
+> Contributors: zekro#0001, argex#0042, error2507#1599, Vale#5252, Ron31#2338, Xellar#9999, G3bE#6007  
 > Last update:  2019/07/18
 
 ---
