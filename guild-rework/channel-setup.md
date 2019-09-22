@@ -1,6 +1,6 @@
 # Channel Setup 
 > Contributors: zekro#9131, Ron31#2338  
-> Last update:  2019/01/13
+> Last update:  2019/09/22
 
 ---
 
@@ -17,37 +17,43 @@
     *Only visible for Moderators and Admins.*  
     *Hier werden alle gejointen Member aufgelistet (direkt über das [Discord Feature](https://i.zekro.de/Discord_2019-01-10_16-23-08.png))*
 - Blackboard
-  - public-blackboard
-  - notifications
+  - dev-blackboard
+  - etc-blackboard
   - modlog
+  - notifications
   - starboard
-  - suggestions
-  - mod-applications
+  - suggestions *RO, wird bald archiviert*
 - Talk  
   *In diesen Channeln darf generell offen gechattet werden ohne besonderen Fokus auf Support und Qualität (natürlich im Rahmen der allgemeinen Regeln).*
   - general
-  - techtalk
   - devtalk
+  - bot-development
+  - techtalk
   - trashtalk
-  - memes
-  - music
+  - annegret-kramp-karrenbauer (memes)
+  - setup-porn
   - commands
+  - media
   - nsfw
-  - hall-of-shame
 - Support  
   *In diesen Channeln steht Support und Qualität im Vordergrund.*
+  - code-reviews
   - jvm-langs
   - python
   - c-cpp
   - js
   - go
-  - code-reviews
   - webdev
-  - videos
-  - etc
   - dotnet
+  - rust
+  - etc
 - Voice Channels
+  - voice *Chat Channel*
   - Staff
   - Support
   - Talk 1
-  - Talk 2
+  - Private *Nur 2 Personen*
+- Arschif *Archiv von abgeschafften Channels*
+  - minecraft-server
+  - hall-of-shame
+  - german
