@@ -1,6 +1,6 @@
 # Team List
 > Contributors: Ron31#2338  
-> Last update:  2019/01/13
+> Last update:  2019/09/22
 
 ---
 
@@ -8,22 +8,21 @@
 
 ## Admin
 
-- zekro#9131
+- zekro#0001
   - Founder
-- RMC#0001
-- Marcel#1000
-- naix#0666
+- RV#0555
+- Marcel#0910
+- naix#2146
 - Skillkiller#9280 
 - Vale#5252
 - Xellar#9999
 - error2507#2507
-- ⎛⎝argex⎠⎞#0042 
+- argex.#0042 
     
 ## Moderator
 
 - Kaktushose#0436
-- itsDkiller#8424
-- Stuuu#1337
+- itsDkiller#4689
 - Ron31#2338
 
 ## Supporter
