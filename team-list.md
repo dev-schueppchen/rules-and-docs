@@ -25,7 +25,8 @@
 
 ## Supporter
 
-- No Supporter
+- error2507#2507
+  - supp-js
 
 ## Bot Maintainer
 - Vale#5252
