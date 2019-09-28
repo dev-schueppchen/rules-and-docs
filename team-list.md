@@ -14,9 +14,7 @@
 - Marcel#0910
 - naix#2146
 - Skillkiller#9280 
-- Vale#5252
 - Xellar#9999
-- error2507#2507
 - argex.#0042 
     
 ## Moderator
@@ -28,3 +26,9 @@
 ## Supporter
 
 - No Supporter
+
+## Bot Maintainer
+- Vale#5252
+- zekro#0001
+- Xellar#9999
+- Ron31#2338
