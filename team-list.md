@@ -14,13 +14,12 @@
 - Marcel#0910
 - naix#2146
 - Skillkiller#9280 
-- Xellar#9999
 - argex.#0042 
+- itsDkiller#4689
     
 ## Moderator
 
 - Kaktushose#0436
-- itsDkiller#4689
 - Ron31#2338
 
 ## Supporter
@@ -33,3 +32,5 @@
 - zekro#0001
 - Xellar#9999
 - Ron31#2338
+
+*This list will may be complety updated in some days, if the team ist making be new*
