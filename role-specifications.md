@@ -1,33 +1,22 @@
 # Role Specifications
 > Contributors: zekro#9131, Xellar#9999  
-> Last update:  2019/01/07
+> Last update:  2019/10/02
 
 ---
 
 This applies to every role:  
-**Abusing any right of your role and permission will instantly result in a loss of your role.**
+**Abusing any right of your role and permission will instantly result in a loss of your role.** If you are prospectively inactive for a longer time span, you must inform the staff team about this, if possible. Otherwise, long term inactivity may will cause a loss of your role.
 
 ## Admin
 
-- Admins have every permission and also bypass channel specific permission settings.
-- Admins must have MFA enabled to use their permissions.
-- Admins can access a seperated chat, only visible for Admins.
-- The main duties of the Admins are:
-  - Punish members who violate the guilds rules (report, mute, ban, kick)  
-    *Every action must pass the report system of the guild so that every action can be traced in the mod log channel and the reports database. If this system failes in a case of emergency, they are allowed to bypass the report system and use the regular ban/kick/role system of the guild.*
-  - Manage channels and roles  
-    *Create channels/roles which are needed, delete channels/roles which are not, rename channels/roles, enable slowmode, change permissions, edit channel topics, ...*
-  - Receive and evaluate applications of members for the Moderator role.
-  - **Every action taken by Admins should be agreed by at least another Admin.**  
-    *Exceptional in case of an emergency if no other admins are accessible.*
+Ad Administrator *(short `Admin`)*, your primary responsibility is to take care of the staff team. That means in particular, you will execute promotions and demotions of Moderators if they act against the law or if they want to. Also, you may need to organize team meetings if the owners are not available to do so. This does not mean that you can not perform actions Moderators are resposible for like reporting, muting, kicking or banning members, but it is not your **primary** task.
+
+Also, of course, you will have full administrative permissions on the guild, which also implies that you **must** have [MFA](https://support.discordapp.com/hc/en-us/articles/219576828-Setting-up-Two-Factor-Authentication) enabled.
     
 ## Moderator
 
-- Moderators have the permission to manage messages, reactions and nicknames.
-- Moderators also have access to the report and mute command.
-- Moderators can access a seperated chat, only visible to Moderators and Admins.
-- The main duties of the Moderators are:
-  - Keep in sight that the rules are followed by the members.
-  - Delete messages violating the rules.
-  - Change/Reset nicknames of users which violate the rules.
-  - Report members which violate the rules.
+Moderators are generally resposible for reporting, muting, kicking and banning members if they act against the [general rules](general-rules.md). Each of these actions must be performed through the report system of [shinpuru](https://github.com/zekroTJA/shinpuru) *(Documentation can be found [here](https://github.com/zekroTJA/shinpuru/wiki/Commands#moderation))* and **must be wel ldocumented**. This means in particular that you need to pass screen shots, links or everything that is valid as proof for the offence, if possible. If the report system fails, for some reason, these actions can be performed via the regular Discord moderation tools.
+
+The type and degree of punishment which needs to be applied for a rule violation is defined in the [punishment guidelines](punishment-guidelines.md) and must be followed as documented there.
+
+Moderators are also responsible to control and overwatch the actions of other staff members, including Admins. If a staff member acts against the [general rules](general-rules.md) as well, this must be reported as same as with non-staff users.
