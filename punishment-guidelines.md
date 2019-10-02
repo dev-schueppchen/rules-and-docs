@@ -39,6 +39,6 @@ Basing on these type definitions, following penalties must be applied:
 
 **Further violation:** Ban
 
-## Type 3
+## Type 4
 
 **First violation:** Ban
