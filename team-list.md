@@ -1,6 +1,6 @@
 # Team List
 > Contributors: Ron31#2338  
-> Last update:  2019/09/22
+> Last update:  2019/09/28
 
 ---
 
@@ -14,17 +14,23 @@
 - Marcel#0910
 - naix#2146
 - Skillkiller#9280 
-- Vale#5252
-- Xellar#9999
-- error2507#2507
 - argex.#0042 
+- itsDkiller#4689
     
 ## Moderator
 
 - Kaktushose#0436
-- itsDkiller#4689
 - Ron31#2338
 
 ## Supporter
 
-- No Supporter
+- error2507#2507
+  - supp-js
+
+## Bot Maintainer
+- Vale#5252
+- zekro#0001
+- Xellar#9999
+- Ron31#2338
+
+*This list will may be complety updated in some days, if the team ist making be new*
