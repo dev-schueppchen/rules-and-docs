@@ -8,7 +8,7 @@
         "height": 100
     },
     "footer": {
-        "text": "last edited: 2018/01/14"
+        "text": "last edited: 2020/08/04"
     },
     "fields": [
         {
@@ -18,6 +18,10 @@
         {
             "name": "🤖 Bots",
             "value": "Our bot for maintaining and supporting the guild is <@524847123875889153>. Use `!help` to get information about how to use this bot.\nWe also do not ping `@everyone` for every notification. For that, we have a role named <@&533833573103566858>. You can get this role by using the command `!notify` and you can also disable the role with it."
+        },
+		{
+            "name": "👍 Karma",
+            "value": "On this guild, we have a karma system which shall provide information about the trustworthyness of users like on platforms like Reddit or Stackoverflow. You earn karma when users are reacting with `👍, 👌, ⭐, ✔` emotes on your messages and you will lose karma when users react with `👎, ❌` to your messages. [Here](https://github.com/zekroTJA/shinpuru/issues/134) you can read more about how the system works and how it is implemented."
         }
     ]
 }
