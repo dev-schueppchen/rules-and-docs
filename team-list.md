@@ -1,6 +1,6 @@
 # Team List
 > Contributors: Ron31#2338  
-> Last update:  2019/09/28
+> Last update:  2020/08/08
 
 ---
 
@@ -10,9 +10,7 @@
 
 - zekro#0001
   - Founder
-- RV#0555
-- Marcel#0910
-- naix#2146
+- RMC#0001
 - Skillkiller#9280 
 - argex.#0042 
 - itsDkiller#4689
@@ -26,11 +24,21 @@
 
 - error2507#2507
   - supp-js
+- naix#1619
+  - supp-java
+  - supp-python
+  - supp-webdev
+- Lukaesebrot#8001
+  - supp-java
+  - supp-go
+- Vale#5252
+  - supp-python
+- Julian Pufler#0420
+  - supp-js
+  - supp-webdev
 
 ## Bot Maintainer
-- Vale#5252
 - zekro#0001
-- Xellar#9999
 - Ron31#2338
 
-*This list will may be complety updated in some days, if the team ist making be new*
+*Diese Liste wird irgendwann komplett geändert, wenn das Team neu gemacht wurde*
