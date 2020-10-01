@@ -1,6 +1,6 @@
 # Channel Setup 
 > Contributors: zekro#9131, Ron31#2338  
-> Last update:  2020/08/08
+> Last update:  2020/10/01
 
 ---
 
@@ -11,9 +11,10 @@
   - etc-blackboard
   - modlog
   - notifications
+  - community-git
   - starboard
   - suggestions
-  - mc-server-register
+  - hacktoberfest
 - Software
   - devtalk
   - community-pfusch
@@ -35,8 +36,8 @@
   - general
   - trash
   - memes
-  - minecraft-server
   - media
+  - hall-of-shame
   - commands
   - nsfw
 - Hardware
@@ -63,4 +64,5 @@
     *Nur sichtbar für Moderatoren und Admins*
 - Arschif *Archiv von abgeschafften Channels*
   - deutsch
-  - hall-of-shame
+  - mc-server-register
+  - minecraft-server
